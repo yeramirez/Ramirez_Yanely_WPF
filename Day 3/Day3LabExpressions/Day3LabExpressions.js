@@ -42,9 +42,11 @@ var together = "Sparky got " + sparkySlices + " slices of pizza";
 console.log(together);
 
 //Assign numbers to your grocery bills.
-var g1 = 51
-var g2 = 103
-var g3 = 94
-var g4 = 77
-var g5 = 231
+var g1 = 51;
+var g2 = 103;
+var g3 = 94;
+var g4 = 77;
+var g5 = 231;
 
+var totalGroceryBills = g1 + g2 + g3 + g4 + g5;
+console.log(totalGroceryBills);
