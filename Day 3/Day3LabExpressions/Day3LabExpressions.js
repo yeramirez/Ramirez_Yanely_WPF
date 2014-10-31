@@ -71,3 +71,9 @@ var originalPrice = 250;
 
 //Assign a discount percentage
 var discountPercentage = .50;
+
+//Description of item: Headphones
+
+//Assign sales tax percentage
+var salesTax = .07;
+
