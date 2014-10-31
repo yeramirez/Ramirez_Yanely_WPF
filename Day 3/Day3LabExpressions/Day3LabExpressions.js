@@ -48,5 +48,12 @@ var g3 = 94;
 var g4 = 77;
 var g5 = 231;
 
+//Put together the numbers to find the total amount of all the bills.
 var totalGroceryBills = g1 + g2 + g3 + g4 + g5;
+
+//The raw output of the number.
 console.log(totalGroceryBills);
+
+//Put together the numbers to find the total average of all the bills.
+var averageGroceryBills = (g1 + g2 + g3+ g4 + g5)/5;
+
