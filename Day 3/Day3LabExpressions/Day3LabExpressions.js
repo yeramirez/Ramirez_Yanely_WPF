@@ -16,7 +16,7 @@ var pizzas = 10;
 //Insert the equation to solve the number of slices per person.
 var totalSlicePerPerson = (slices * pizzas)/people;
 
-
+//Insert how you want it formatted in the end.
 var together = "Each person ate " + totalSlicePerPerson + " slices of pizza at the party";
 
 console.log(together);
