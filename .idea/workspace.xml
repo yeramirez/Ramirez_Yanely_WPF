@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b67f8a6-9115-4b03-bb6e-001075ac9ea6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 3/firstFile.html" afterPath="$PROJECT_DIR$/Day 3/firstFile.html" />
-    </list>
+    <list default="true" id="5b67f8a6-9115-4b03-bb6e-001075ac9ea6" name="Default" comment="" />
     <ignored path="Ramirez_Yanely_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
