@@ -22,4 +22,5 @@ console.log(totalSlicePerPerson);
 //Insert how you want it formatted in the end.
 var together = "Each person ate " + totalSlicePerPerson + " slices of pizza at the party";
 
+//The final formatting of how you want the outcome to look like.
 console.log(together);
