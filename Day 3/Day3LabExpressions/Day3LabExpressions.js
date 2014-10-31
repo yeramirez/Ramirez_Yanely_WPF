@@ -41,3 +41,10 @@ var together = "Sparky got " + sparkySlices + " slices of pizza";
 //Also, wondering why Sparky got way more slices than anyone else, but I guess we can just say he's a husky.
 console.log(together);
 
+//Assign numbers to your grocery bills.
+var g1 = 51
+var g2 = 103
+var g3 = 94
+var g4 = 77
+var g5 = 231
+
