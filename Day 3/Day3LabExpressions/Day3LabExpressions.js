@@ -65,3 +65,7 @@ var together = "You have spent a total of $"+ totalGroceryBills + " on groceries
 
 //The final formatting of how you want the outcome to look like
 console.log(together);
+
+//Assign a number for your original price
+var originalPrice = 250
+
