@@ -73,7 +73,27 @@ var originalPrice = 250;
 var discountPercentage = .50;
 
 //Description of item: Headphones
+var description = "headphones";
 
 //Assign sales tax percentage
 var salesTax = .07;
+
+
+//Price of the item without tax
+var taxOriginal = originalPrice* discountPercentage;
+
+//Output of item without tax
+console.log(taxOriginal);
+
+//Price of item with tax
+var taxFinal = taxOriginal+ (taxOriginal* salesTax);
+
+//Output of item with tax
+console.log(taxFinal);
+
+
+
+
+
+
 
