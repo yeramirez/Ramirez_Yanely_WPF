@@ -57,3 +57,11 @@ console.log(totalGroceryBills);
 //Put together the numbers to find the total average of all the bills.
 var averageGroceryBills = (g1 + g2 + g3+ g4 + g5)/5;
 
+//Outputting the average
+console.log(averageGroceryBills);
+
+var together = "You have spent a total of $"+ totalGroceryBills + " on groceries over 5 weeks. " +
+    "That is an average of $"+ averageGroceryBills + " per week.";
+
+//The final formatting of how you want the outcome to look like
+console.log(together);
