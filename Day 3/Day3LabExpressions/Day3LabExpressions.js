@@ -36,3 +36,8 @@ console.log(sparkySlices);
 
 //Putting the Sparky slices together
 var together = "Sparky got " + sparkySlices + " slices of pizza";
+
+//The final formatting of how you want the outcome to look like.
+//Also, wondering why Sparky got way more slices than anyone else, but I guess we can just say he's a husky.
+console.log(together);
+
