@@ -35,11 +35,11 @@ var sparkySlices = slices * pizzas % people;
 console.log(sparkySlices);
 
 //Putting the Sparky slices together
-var together = "Sparky got " + sparkySlices + " slices of pizza";
+var togetherSparky = "Sparky got " + sparkySlices + " slices of pizza";
 
 //The final formatting of how you want the outcome to look like.
 //Also, wondering why Sparky got way more slices than anyone else, but I guess we can just say he's a husky.
-console.log(together);
+console.log(togetherSparky);
 
 //Assign numbers to your grocery bills.
 var g1 = 51;
@@ -60,12 +60,14 @@ var averageGroceryBills = (g1 + g2 + g3+ g4 + g5)/5;
 //Outputting the average
 console.log(averageGroceryBills);
 
-var together = "You have spent a total of $"+ totalGroceryBills + " on groceries over 5 weeks. " +
+var togetherGrocery = "You have spent a total of $"+ totalGroceryBills + " on groceries over 5 weeks. " +
     "That is an average of $"+ averageGroceryBills + " per week.";
 
 //The final formatting of how you want the outcome to look like
-console.log(together);
+console.log(togetherGrocery);
 
 //Assign a number for your original price
-var originalPrice = 250
+var originalPrice = 250;
 
+//Assign a discount percentage
+var discountPercentage = .50;
