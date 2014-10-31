@@ -5,13 +5,13 @@
 
 
 //Assign a number to the amount of slices per pizza
-var slices = 10;
+var slices = 9;
 
 //Assign a number to the amount of people at the party
 var people = 15;
 
 //Assign a number to the amount of pizzas ordered
-var pizzas = 10;
+var pizzas = 11;
 
 //Insert the equation to solve the number of slices per person.
 var totalSlicePerPerson = (slices * pizzas)/people;
@@ -24,3 +24,6 @@ var together = "Each person ate " + totalSlicePerPerson + " slices of pizza at t
 
 //The final formatting of how you want the outcome to look like.
 console.log(together);
+
+
+//To find the remainder you must use Modulo
