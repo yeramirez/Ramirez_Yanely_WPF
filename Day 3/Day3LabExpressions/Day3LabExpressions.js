@@ -70,14 +70,14 @@ console.log(togetherGrocery);
 var originalPrice = 250;
 
 //Assign a discount percentage
-var discountPercentage = .50;
+var discount = 50;
+var discountPercentage = discount / 100;
 
 //Description of item: Headphones
 var description = "headphones";
 
 //Assign sales tax percentage
 var salesTax = .07;
-
 
 //Price of the item without tax
 var taxOriginal = originalPrice* discountPercentage;
@@ -91,8 +91,12 @@ var taxFinal = taxOriginal+ (taxOriginal* salesTax);
 //Output of item with tax
 console.log(taxFinal);
 
+//Put the final formatting for your sentence together
+var togetherPrice = "Your " + description + " were originally $" + originalPrice + ", but after a " +discount +
+        "% discount, it is now $" + taxOriginal + " without tax, and $" + taxFinal + " with tax.";
 
-
+//Get it as an output and you're done!
+console.log(togetherPrice);
 
 
 

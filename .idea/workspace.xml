@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b67f8a6-9115-4b03-bb6e-001075ac9ea6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 3/Day3LabExpressions/Day3LabExpressions.js" afterPath="$PROJECT_DIR$/Day 3/Day3LabExpressions/Day3LabExpressions.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Ramirez_Yanely_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,7 +39,7 @@
       <file leaf-file-name="Lab Expressions.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 3/Day3LabExpressions/Lab Expressions.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="240">
+            <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="240">
               <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
               <folding />
             </state>
@@ -50,7 +49,7 @@
       <file leaf-file-name="script.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 3/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="808" max-vertical-offset="3000">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1500" max-vertical-offset="3000">
               <caret line="180" column="0" selection-start-line="180" selection-start-column="0" selection-end-line="180" selection-end-column="0" />
               <folding />
             </state>
@@ -60,8 +59,8 @@
       <file leaf-file-name="Day3LabExpressions.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 3/Day3LabExpressions/Day3LabExpressions.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7964722" vertical-offset="748" max-vertical-offset="1545">
-              <caret line="91" column="22" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
+            <state vertical-scroll-proportion="0.61329716" vertical-offset="853" max-vertical-offset="1605">
+              <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
               <folding>
                 <element signature="e#0#41#0" expanded="false" />
               </folding>
@@ -704,7 +703,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 3/Day3LabExpressions/Lab Expressions.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="240">
+        <state vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="240">
           <caret line="7" column="6" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding />
         </state>
@@ -720,8 +719,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 3/Day3LabExpressions/Day3LabExpressions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7964722" vertical-offset="748" max-vertical-offset="1545">
-          <caret line="91" column="22" selection-start-line="91" selection-start-column="22" selection-end-line="91" selection-end-column="22" />
+        <state vertical-scroll-proportion="0.61329716" vertical-offset="853" max-vertical-offset="1605">
+          <caret line="89" column="0" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
           <folding>
             <element signature="e#0#41#0" expanded="false" />
           </folding>
