@@ -5,13 +5,13 @@
 
 
 //Assign a number to the amount of slices per pizza
-var slices = 9;
+var slices = 12;
 
 //Assign a number to the amount of people at the party
-var people = 15;
+var people = 30;
 
 //Assign a number to the amount of pizzas ordered
-var pizzas = 11;
+var pizzas = 15;
 
 //Insert the equation to solve the number of slices per person.
 var totalSlicePerPerson = (slices * pizzas)/people;
@@ -27,3 +27,9 @@ console.log(together);
 
 
 //To find the remainder you must use Modulo
+//This will help you find out how many slices sparky gets.
+
+var sparkySlices = slices * pizzas % people;
+
+//This is the raw amount of how many slices Sparky will get.
+console.log(sparkySlices);
