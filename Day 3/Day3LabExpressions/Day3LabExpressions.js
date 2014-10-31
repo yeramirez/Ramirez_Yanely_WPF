@@ -5,7 +5,7 @@
 
 
 //Assign a number to the amount of slices per pizza
-var slices = 12;
+var slices = 13;
 
 //Assign a number to the amount of people at the party
 var people = 30;
@@ -33,3 +33,6 @@ var sparkySlices = slices * pizzas % people;
 
 //This is the raw amount of how many slices Sparky will get.
 console.log(sparkySlices);
+
+//Putting the Sparky slices together
+var together = "Sparky got " + sparkySlices + " slices of pizza";
