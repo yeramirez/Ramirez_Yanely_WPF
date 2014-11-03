@@ -66,22 +66,3 @@ var orangeAverage = orangeTotal/orangeBins.length;
 console.log("The average amount of oranges picked in "+ orangeBins.length +" days is "+ orangeAverage+".");
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
