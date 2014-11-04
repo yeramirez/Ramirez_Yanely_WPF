@@ -23,7 +23,9 @@ Date
  var tankGallons = prompt("How many gallons does it take your car to fill up?");
  console.log(tankGallons);
 
- 
+ //Multiply the needed numbers
+ var results = parseInt(gasFillUps) * parseInt(gasPrice) * parseInt(tankGallons);
+ console.log("You spend $"+ results + " on gas each month.");
 
 
 
