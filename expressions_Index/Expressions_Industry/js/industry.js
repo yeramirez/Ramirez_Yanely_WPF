@@ -30,9 +30,16 @@ Date
  var taxTwo = (projects [1] *.07) + projects [1] + projects[2] + (projects [2] *.07);
  console.log("The total for client two is $" + taxTwo+ " including tax.");
  var taxThree = (projects [3] * .07) + projects[3];
- console.log("The total for client three is $" + taxThree + " including tax.")
+ console.log("The total for client three is $" + taxThree + " including tax.");
 
- 
+ //Calculate how much was made this month.
+ console.log("The total monthly income was $" + totalProjects + ".");
+ //Phone number
+ var areaCode = 407;
+ var firstPart = 863;
+ var secondPart = 6672;
+ var phoneNumber = String(areaCode)+String(firstPart)+String(secondPart);
+ console.log("If you'd like to contact me, call me at " + phoneNumber+".")
 
 
 
