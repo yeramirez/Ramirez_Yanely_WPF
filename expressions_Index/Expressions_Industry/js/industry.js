@@ -16,10 +16,17 @@ Date
  var totalProjects = projects[0] + projects[1] + projects[2] + projects [3];
  console.log(totalProjects);
 
+ // How many clients per project
  var clientOne = projects[0];
- var clientTwo = projects[1] + projects [2]
- var clientThree = projects[3]
+ console.log("Client one has $" + clientOne+ " worth of labor.");
+ var clientTwo = projects[1] + projects [2];
+ console.log("Client two has $" + clientTwo+ " worth of labor.");
+ var clientThree = projects[3];
+ console.log("Client three has $" +clientThree+ " worth of labor.")
 
+ //Calculating how much tax each client will have to pay.
+ var taxOne = (projects [0] * .07) + projects[0];
+ var taxTwo = (projects [1] *.07) + projects [1]
 
 
 

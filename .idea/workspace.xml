@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b67f8a6-9115-4b03-bb6e-001075ac9ea6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 4/js/day4Arrays.js" afterPath="$PROJECT_DIR$/Day 4/js/day4Arrays.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/expressions_Index/Expressions_Industry/js/industry.js" afterPath="$PROJECT_DIR$/expressions_Index/Expressions_Industry/js/industry.js" />
     </list>
     <ignored path="Ramirez_Yanely_WPF.iws" />
@@ -40,8 +39,8 @@
       <file leaf-file-name="industry.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/expressions_Index/Expressions_Industry/js/industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4477612" vertical-offset="0" max-vertical-offset="737">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.48846677" vertical-offset="0" max-vertical-offset="737">
+              <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
               <folding />
             </state>
           </provider>
@@ -766,8 +765,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/expressions_Index/Expressions_Industry/js/industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4477612" vertical-offset="0" max-vertical-offset="737">
-          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.48846677" vertical-offset="0" max-vertical-offset="737">
+          <caret line="24" column="65" selection-start-line="24" selection-start-column="65" selection-end-line="24" selection-end-column="65" />
           <folding />
         </state>
       </provider>
