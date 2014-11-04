@@ -13,8 +13,11 @@ Date
 
  //Ask how many hours will you work?
  var hours = prompt("How many hours will I have worked this week?");
- var months = 3
- var hours = parseInt(hours) * months
- console.log("I will work "+ hours + " hours in "+months+" months.");
+ console.log("I will work "+ hours + " hours in a week.");
 
  //Ask how much you will get paid by the hour
+ var money = prompt("How much will you get paid an hour?");
+ console.log("You will get paid $"+ money + " an hour.");
+
+ //Ask how many months you will be working
+ 
