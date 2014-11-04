@@ -22,11 +22,17 @@ Date
  var clientTwo = projects[1] + projects [2];
  console.log("Client two has $" + clientTwo+ " worth of labor.");
  var clientThree = projects[3];
- console.log("Client three has $" +clientThree+ " worth of labor.")
+ console.log("Client three has $" +clientThree+ " worth of labor.");
 
  //Calculating how much tax each client will have to pay.
  var taxOne = (projects [0] * .07) + projects[0];
- var taxTwo = (projects [1] *.07) + projects [1]
+ console.log("The total for client one is $" + taxOne + " including tax.");
+ var taxTwo = (projects [1] *.07) + projects [1] + projects[2] + (projects [2] *.07);
+ console.log("The total for client two is $" + taxTwo+ " including tax.");
+ var taxThree = (projects [3] * .07) + projects[3];
+ console.log("The total for client three is $" + taxThree + " including tax.")
+
+ 
 
 
 
