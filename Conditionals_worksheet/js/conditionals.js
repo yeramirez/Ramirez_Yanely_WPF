@@ -17,7 +17,7 @@ WPF 1411
  var gasCapacity = 10;
 
  //How much do you have in your tank (%)?
- var gasInTank = .75;
+ var gasInTank = .63;
  var gasInTankGallons = gasInTank * gasCapacity;
 
 
@@ -28,6 +28,7 @@ WPF 1411
  if(miles>=200) {
   console.log("Yes, you can make it without stopping! You go Glen Coco!")
 
+  //If the car cannot travel 200 miles then this will tell the user that they should stop and fuel up on gas.
  } else {
   console.log("You only have " + gasInTankGallons + " gallons left in your tank! You better get gas now while you can!")
  }
