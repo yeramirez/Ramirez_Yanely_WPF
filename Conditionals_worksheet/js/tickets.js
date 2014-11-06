@@ -18,4 +18,7 @@ WPF 1411
  var timeEarly = 3;
  var timeLate = 5;
 
- 
+ //Ask user for age?
+ var age = 25;
+
+ //The user must have at least one so you use the or (||) symbol
