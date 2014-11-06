@@ -8,6 +8,12 @@ WPF 1411
 
 //alert("Testing 1,2,3!");
 
- //If I have more than $10 I will go to Burger King to eat, if not I will go to McDonalds.
- //Burger King or McDonald's?
+ //Determine if you can make it without stopping for gas, or nah.
+
+ //How much efficiency does your car get (mpg).
+ var gasEfficiency = 32;
+
+ //How much do you have in your tank (%)?
+ var gasInTank = 50;
+
 
