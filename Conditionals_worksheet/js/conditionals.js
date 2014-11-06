@@ -17,8 +17,8 @@ WPF 1411
  var gasCapacity = 10;
 
  //How much do you have in your tank (%)?
- var gasInTank = .63;
- var gasInTankGallons = gasInTank * gasCapacity;
+ var gasInTank = 63;
+ var gasInTankGallons = (gasInTank * gasCapacity)/100;
 
 
  //Make an equation to find out how many miles you can travel until you are empty.
