@@ -19,5 +19,7 @@ WPF 1411
  F  0-690.0
  */
 
- //
+ //Declare and define the variable for the grade.
+ var grade = prompt("What is your grade?");
+ 
 
