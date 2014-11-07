@@ -73,10 +73,10 @@ WPF 1411
   } else if(temp>70 && waterTemp<=75){
    console.log("Let's go to the beach! \n Let's get a tan!");
 
-  }else if(temp<=70 && child){
+  } else if(temp<=70 && child){
    console.log("Let's go to the movies!\n Let's see an animated movie!");
 
- }else if (temp<=70 && !child){
+ } else if (temp<=70 && !child){
   console.log("Let's go to the movies! \n Let's see a horror movie!")
 
  }
