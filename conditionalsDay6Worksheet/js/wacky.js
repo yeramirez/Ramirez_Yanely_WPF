@@ -26,9 +26,18 @@ WPF 1411
  //Let's make this into a game that checks how smart we are.
  //So let's ask some simple questions.
 
+ alert("We are going to check what your age is depending on how you answer these simple questions! :)");
+
+ //Ask question one.
  var quest1 = prompt("What is the sum of 2+2?");
 
- if(quest1 == 4 || quest1 == "4"){
-  console.log("Correct! Next question!");
+ if(quest1 == 4 || quest1 == "4"){ // We are testing to see if the user inserted the correct answer.
+  console.log("Okay! Next question!");
+
+ } else { // Say this if the question was answered incorrectly.
+  console.log("I'm sorry you are incorrect! Your brain age is: 2 years old.");
 
  }
+
+ //Ask a second question! This time, harder (twss).
+ 
