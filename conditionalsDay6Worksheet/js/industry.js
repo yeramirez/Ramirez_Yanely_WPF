@@ -29,8 +29,6 @@ WPF 1411
  } else if(colorPick == shirtColor[2] || colorPick == "black"){
   console.log("With a black shirt you should wear a black pencil skirt with black heels.");
 
-
-
  } else if(colorPick == shirtColor[3] || colorPick == "white"){
   console.log("With a white shirt you should wear a black pencil skirt with white heels.");
 
