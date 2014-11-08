@@ -26,7 +26,7 @@ WPF 1411
 
  //If statement
  if(miles>=200) {
-  console.log("Yes, you can make it without stopping! You go Glen Coco!")
+  console.log("Yes, you can make it without stopping! You go Glen Coco!");
 
   //If the car cannot travel 200 miles then this will tell the user that they should stop and fuel up on gas.
  } else {
