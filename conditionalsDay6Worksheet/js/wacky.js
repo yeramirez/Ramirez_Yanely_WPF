@@ -40,4 +40,33 @@ WPF 1411
  }
 
  //Ask a second question! This time, harder (twss).
+ var quest2 = prompt("What is 12 * 12?");
+
+ if(quest2 == 144 || quest2 == "144"){
+  console.log("Okay!, Next question!")
+
+ } else {
+  console.log("I'm sorry you are incorrect! Your brain age is: 10 years old.");
+
+ }
+
+ //Ask a third question (level 3)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
  
