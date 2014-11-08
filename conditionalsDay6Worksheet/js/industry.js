@@ -17,7 +17,7 @@ WPF 1411
  //Ask the user to choose between the four colors
  var colorPick = prompt("Please choose between these colors: " + shirtColor[0]+", "+shirtColor[1]+", "+shirtColor[2]+", "+shirtColor[3]);
 
- console.log("user input color: " + colorPick);
+ console.log("User input color: " + colorPick);
 
  //Make an if for if they pick either or of a shirt.
  if(colorPick == shirtColor[0] || colorPick == "red"){
@@ -26,13 +26,18 @@ WPF 1411
  } else if(colorPick == shirtColor[1] || colorPick == "blue"){
   console.log("With a blue shirt you should wear a black pencil skirt with blue heels.");
 
- } else if(colorPick === shirtColor[2] || ){
+ } else if(colorPick == shirtColor[2] || colorPick == "black"){
   console.log("With a black shirt you should wear a black pencil skirt with black heels.");
 
- } else {
-  console.log("With a white shirt you should wear a black pencil skirt with white heels.");
- }
 
+
+ } else if(colorPick == shirtColor[3] || colorPick == "white"){
+  console.log("With a white shirt you should wear a black pencil skirt with white heels.");
+
+ } else {
+  console.log("Error: Please input a color!");
+
+ }
 
 
 
