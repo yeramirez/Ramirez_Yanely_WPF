@@ -75,7 +75,31 @@ WPF 1411
 
  console.log(num9);
 
+ //Prompt the user for a max and min number
+ //Then find the random number between them
 
+ var min = prompt("Let's find a random number! What's the max number?");
+ var max = prompt("Please type in a minimum number?");
+
+ //Find the random integer
+ var randomNum = (Math.random() * (max - min) + parseInt(min));
+
+ console.log(randomNum);
+
+ console.log("Your random number is "+randomNum+".");
+
+ //Math class constant
+ //Number that never changes
+ //Always uppercase
+ //Math.PI - 3.14159.....
+ //Circum of a circle
+ //2 * pi * pi
+
+ var radius = 7;
+
+ var circleArea = 2*Math.PI * radius;
+
+ console.log(circleArea);
 
 
 
