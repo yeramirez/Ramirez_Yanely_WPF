@@ -24,6 +24,11 @@ WPF 1411
  }
 
  //Let's make this into a game that checks how smart we are.
+ //So let's ask some simple questions.
 
+ var quest1 = prompt("What is the sum of 2+2?");
 
+ if(quest1 == 4 || quest1 == "4"){
+  console.log("Correct! Next question!");
 
+ }
