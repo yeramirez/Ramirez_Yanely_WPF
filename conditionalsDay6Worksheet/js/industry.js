@@ -10,25 +10,27 @@ WPF 1411
 
  //Find a problem to solve, you will be a problem solver today!
  //I am going to a web conference in Downtown Orlando and I have to pick the perfect outfit to recruit clients.
- //Give options
 
+ //Give options
  var shirtColor = ["Red", "Blue", "Black", "White"];
 
+ //Ask the user to choose between the four colors
  var colorPick = prompt("Please choose between these colors: " + shirtColor[0]+", "+shirtColor[1]+", "+shirtColor[2]+", "+shirtColor[3]);
 
- console.log(colorPick);
+ console.log("user input color: " + colorPick);
 
- if(colorPick === shirtColor[0]){
-  console.log(prompt("With a red shirt you should wear a black pencil skirt with red heels."));
+ //Make an if for if they pick either or of a shirt.
+ if(colorPick == shirtColor[0] || colorPick == "red"){
+  console.log("With a red shirt you should wear a black pencil skirt with red heels.");
 
- } else if(colorPick===shirtColor[1]){
-  console.log(prompt("With a blue shirt you should wear a black pencil skirt with blue heels."));
+ } else if(colorPick == shirtColor[1] || colorPick == "blue"){
+  console.log("With a blue shirt you should wear a black pencil skirt with blue heels.");
 
- } else if(colorPick === shirtColor[2]){
-  console.log(prompt("With a black shirt you should wear a black pencil skirt with black heels."));
+ } else if(colorPick === shirtColor[2] || ){
+  console.log("With a black shirt you should wear a black pencil skirt with black heels.");
 
  } else {
-  console.log(prompt("With a white shirt you should wear a black pencil skirt with white heels."));
+  console.log("With a white shirt you should wear a black pencil skirt with white heels.");
  }
 
 
