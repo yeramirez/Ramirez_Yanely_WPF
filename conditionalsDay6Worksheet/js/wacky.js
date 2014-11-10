@@ -51,8 +51,8 @@ WPF 1411
                      if(quest5 == "Tallahassee"){
                          console.log("You are correct! Congratulations, you are the smartest person in the world!");
 
-                     } else {
-                         console.log("")
+                     } else { //Say this if they answered incorrectly
+                         console.log("I'm sorry you are incorrect. Your brain age is 18");
                      }
 
                  } else { // say this if the question was answered incorrectly.
@@ -69,14 +69,12 @@ WPF 1411
              console.log("I'm sorry you are incorrect! Your brain age is: 4 years old.");
 
 
-
          }
 
      } else { // Say this if the question was answered incorrectly.
          console.log("I'm sorry you are incorrect! Your brain age is: 2 years old.");
      }
-
-
+     
 
  } else if (age<10){ // If the player is younger than 10 then they are not able to play.
   console.log("Sorry, you are not old enough to play this game! :(");
