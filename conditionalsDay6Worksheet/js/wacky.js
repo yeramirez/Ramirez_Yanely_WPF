@@ -39,8 +39,14 @@ WPF 1411
              if(quest3 == 31){
                  console.log("Okay! Next question!");
 
-             } else {
-                 console.log()
+                 //Ask a fourth question!
+                 var quest4 = prompt("What is (6*7) + (121/11) + 150?");
+
+                 
+
+             } else { // Say this if the question was answered incorrectly.
+                 console.log("I'm sorry you are incorrect! Your brain age is 14!");
+
              }
 
          } else { // Say this if the question was answered incorrectly.

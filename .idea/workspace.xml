@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b67f8a6-9115-4b03-bb6e-001075ac9ea6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/conditionalsDay6Worksheet/js/wacky.js" afterPath="$PROJECT_DIR$/conditionalsDay6Worksheet/js/wacky.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Ramirez_Yanely_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="wacky.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conditionalsDay6Worksheet/js/wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.59023064" vertical-offset="195" max-vertical-offset="1425">
-              <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.67164177" vertical-offset="165" max-vertical-offset="1515">
+              <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
               <folding />
             </state>
           </provider>
@@ -721,8 +720,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conditionalsDay6Worksheet/js/wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.59023064" vertical-offset="195" max-vertical-offset="1425">
-          <caret line="42" column="29" selection-start-line="42" selection-start-column="29" selection-end-line="42" selection-end-column="29" />
+        <state vertical-scroll-proportion="0.67164177" vertical-offset="165" max-vertical-offset="1515">
+          <caret line="44" column="17" selection-start-line="44" selection-start-column="17" selection-end-line="44" selection-end-column="17" />
           <folding />
         </state>
       </provider>
