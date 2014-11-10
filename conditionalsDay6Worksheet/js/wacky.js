@@ -48,7 +48,10 @@ WPF 1411
                      //Ask a fifth question
                      var quest5 = prompt("What is the capital of Florida?");
 
-                     if(quest5 == "Jacksonville"){
+                     if(quest5 == "Tallahassee"){
+                         console.log("You are correct! Congratulations, you are the smartest person in the world!");
+
+                     } else {
                          console.log("")
                      }
 
