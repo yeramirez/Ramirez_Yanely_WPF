@@ -12,7 +12,7 @@ WPF 1411
 
  var age = prompt("How old are you?");
 
- if(age>=10){ // We are testing how old the player is, if they are older than 10 then they can play.
+ if(age<=105 && age>=10){ // We are testing how old the player is, if they are older than 10 then they can play.
   console.log("Okay, let's play a game!");
 
 
@@ -49,7 +49,7 @@ WPF 1411
                      var quest5 = prompt("What is the capital of Florida?");
 
                      if(quest5 == "Tallahassee"){
-                         console.log(alert("You are correct! Congratulations, you are the smartest person in the world!"));
+                         console.log(alert("You are correct! Congratulations, you are the smartest person in the world! Thank you for playing."));
 
                      } else { //Say this if they answered incorrectly
                          console.log(alert("I'm sorry you are incorrect. Your brain age is 18"));
