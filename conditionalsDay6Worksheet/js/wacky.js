@@ -36,7 +36,7 @@ WPF 1411
              //Ask a third question (level 3)
              var quest3 = prompt("What is (3 * 3) + 24");
 
-             if(quest3 == 31){
+             if(quest3 == 33){
                  console.log("Okay! Next question!");
 
                  //Ask a fourth question!
@@ -49,14 +49,14 @@ WPF 1411
                      var quest5 = prompt("What is the capital of Florida?");
 
                      if(quest5 == "Tallahassee"){
-                         console.log("You are correct! Congratulations, you are the smartest person in the world!");
+                         console.log(prompt("You are correct! Congratulations, you are the smartest person in the world!"));
 
                      } else { //Say this if they answered incorrectly
-                         console.log("I'm sorry you are incorrect. Your brain age is 18");
+                         console.log(prompt("I'm sorry you are incorrect. Your brain age is 18"));
                      }
 
                  } else { // say this if the question was answered incorrectly.
-                     console.log("I'm sorry you are incorrect! Your brain age is 15");
+                     console.log(prompt("I'm sorry you are incorrect! Your brain age is 15"));
 
                  }
 
