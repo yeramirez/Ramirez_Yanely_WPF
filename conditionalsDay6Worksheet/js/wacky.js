@@ -46,7 +46,11 @@ WPF 1411
                      console.log("Okay! Next question!");
 
                      //Ask a fifth question
-                     var quest5 = prompt("What is ")
+                     var quest5 = prompt("What is the capital of Florida?");
+
+                     if(quest5 == "Jacksonville"){
+                         console.log("")
+                     }
 
                  } else { // say this if the question was answered incorrectly.
                      console.log("I'm sorry you are incorrect! Your brain age is 15");
