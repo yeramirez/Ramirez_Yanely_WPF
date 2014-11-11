@@ -8,5 +8,12 @@ WPF 1411
 
 //alert("Testing 1,2,3!");
 
- //
+ //Let's start a loop!
+ //Let's do the counting game!
+
+ var game = prompt("Let's play a game!");
+
+ var counting = prompt("Pick any number!\nAnd let's start counting!");
+
+ 
 
