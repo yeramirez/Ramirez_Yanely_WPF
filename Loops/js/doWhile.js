@@ -27,11 +27,11 @@ WPF 1411
  console.log("------Do While Loops-----");
 
 
- var monkeysonBed = 1;
+ var monkeysonBed = prompt("How many monkeys jumping on your bed?");
 
  do{
 
   console.log(monkeysonBed + " jumping on the bed.");
 
 
- } while ( monkeysonBed > 0 ; );
+ } while (i>0);
