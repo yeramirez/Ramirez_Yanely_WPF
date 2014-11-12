@@ -15,3 +15,8 @@ WPF 1411
 
  //The user will be able to put in as many monkeys as they want on the bed.
 
+ var monkeys = prompt("How many monkeys will be jumping on your bed?");
+
+ while ( monkeys > 0){ // Checks to see the number of monkeys you entered
+
+ }
