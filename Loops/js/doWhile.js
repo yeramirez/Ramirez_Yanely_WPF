@@ -18,5 +18,20 @@ WPF 1411
  var monkeys = prompt("How many monkeys will be jumping on your bed?");
 
  while ( monkeys > 0){ // Checks to see the number of monkeys you entered
+  console.log(monkeys + " jumping on the bed.");
+
+  monkeys--; //The amount of decrements
 
  }
+
+ console.log("------Do While Loops-----");
+
+
+ var monkeysonBed = 1;
+
+ do{
+
+  console.log(monkeysonBed + " jumping on the bed.");
+
+
+ } while ( monkeysonBed > 0 ; );
