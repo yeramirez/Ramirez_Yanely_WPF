@@ -10,3 +10,9 @@ WPF 1411
 
  //Calculate the circumference of a circle
 
+ var radius = prompt("Please assign a radius to your circle!");
+
+ //Now lets calculate
+
+
+
