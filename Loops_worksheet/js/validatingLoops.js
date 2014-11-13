@@ -10,3 +10,11 @@ WPF 1411
 
  //Make up a problem for the user to solve
 
+ //Let's determine how many songs we can listen to in a certain amount of time
+
+
+ //We will first prompt the user for a amount of time (that they will listen to music)
+
+ var time = prompt("How long will you be listening to music?");
+
+ 

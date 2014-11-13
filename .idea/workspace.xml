@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b67f8a6-9115-4b03-bb6e-001075ac9ea6" name="Default" comment="">
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Loops/doWhile.html" afterPath="$PROJECT_DIR$/Loops_worksheet/doWhile.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Loops/forLoop.html" afterPath="$PROJECT_DIR$/Loops_worksheet/forLoop.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Loops/js/doWhile.js" afterPath="$PROJECT_DIR$/Loops_worksheet/js/doWhile.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Loops/js/forLoop.js" afterPath="$PROJECT_DIR$/Loops_worksheet/js/forLoop.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Loops/js/whileLoops.js" afterPath="$PROJECT_DIR$/Loops_worksheet/js/whileLoops.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Loops/whileLoops.html" afterPath="$PROJECT_DIR$/Loops_worksheet/whileLoops.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 7/js/day7ForLoops.js" afterPath="$PROJECT_DIR$/Day 7/js/day7ForLoops.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 7/js/day7ValidatingPrompts.js" afterPath="$PROJECT_DIR$/Day 7/js/day7ValidatingPrompts.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 7/js/day7WhileLoop.js" afterPath="$PROJECT_DIR$/Day 7/js/day7WhileLoop.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8/js/day8Returns.js" afterPath="$PROJECT_DIR$/Day 8/js/day8Returns.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Loops_worksheet/js/validatingLoops.js" afterPath="$PROJECT_DIR$/Loops_worksheet/js/validatingLoops.js" />
     </list>
     <ignored path="Ramirez_Yanely_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,8 +39,8 @@
       <file leaf-file-name="validatingLoops.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Loops_worksheet/js/validatingLoops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.24193548" vertical-offset="0" max-vertical-offset="620">
-              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+            <state vertical-scroll-proportion="0.45967743" vertical-offset="0" max-vertical-offset="620">
+              <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -748,8 +738,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Loops_worksheet/js/validatingLoops.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24193548" vertical-offset="0" max-vertical-offset="620">
-          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
+        <state vertical-scroll-proportion="0.45967743" vertical-offset="0" max-vertical-offset="620">
+          <caret line="19" column="1" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
           <folding />
         </state>
       </provider>
