@@ -17,4 +17,8 @@ WPF 1411
 
  var time = prompt("How long will you be listening to music?");
 
+ //We will then prompt the user for the average time a song is
+
+ var songTime = prompt("On average, how long are the songs you are listening to?");
+
  
