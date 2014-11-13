@@ -18,21 +18,19 @@ WPF 1411
  console.log("-------Loops-----");
  var monkeys = prompt("How many monkeys will be jumping on your bed?");
 
- while ( monkeys > 0){ // Checks to see the number of monkeys you entered
-  console.log(monkeys + " jumping on the bed.");
+ while ( monkeys > 1){ // Checks to see the number of monkeys you entered
+  console.log(monkeys + " monkeys jumping on the bed!");
 
   monkeys--; //The amount of decrements
 
  }
 
- console.log("------Do While Loops-----");
 
-
- var a = 20;
+ var a = 1;
 
  do {
 
-  console.log(a + " monkeys jumping on the bed!");
+  console.log(a + " monkey jumping on the bed!");
 
   a--;
 
