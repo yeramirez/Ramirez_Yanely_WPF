@@ -14,6 +14,12 @@ WPF 1411
 
  //Let's validate to see if it fits
 
+ while(radius ==="" || isNaN(radius)){
+
+  radius = prompt("Please only type in numbers and don't leave blank!\nEnter a radius in numerical value.");
+
+ }
+
  //Now lets calculate
 
  var circumference = Number(radius) * 2 * Math.PI
