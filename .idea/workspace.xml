@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b67f8a6-9115-4b03-bb6e-001075ac9ea6" name="Default" comment="" />
+    <list default="true" id="5b67f8a6-9115-4b03-bb6e-001075ac9ea6" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Loops/doWhile.html" afterPath="$PROJECT_DIR$/Loops_worksheet/doWhile.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Loops/forLoop.html" afterPath="$PROJECT_DIR$/Loops_worksheet/forLoop.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Loops/js/doWhile.js" afterPath="$PROJECT_DIR$/Loops_worksheet/js/doWhile.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Loops/js/forLoop.js" afterPath="$PROJECT_DIR$/Loops_worksheet/js/forLoop.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Loops/js/whileLoops.js" afterPath="$PROJECT_DIR$/Loops_worksheet/js/whileLoops.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Loops/whileLoops.html" afterPath="$PROJECT_DIR$/Loops_worksheet/whileLoops.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 7/js/day7ForLoops.js" afterPath="$PROJECT_DIR$/Day 7/js/day7ForLoops.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 7/js/day7ValidatingPrompts.js" afterPath="$PROJECT_DIR$/Day 7/js/day7ValidatingPrompts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 7/js/day7WhileLoop.js" afterPath="$PROJECT_DIR$/Day 7/js/day7WhileLoop.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 8/js/day8Returns.js" afterPath="$PROJECT_DIR$/Day 8/js/day8Returns.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="Ramirez_Yanely_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,51 +36,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="scope.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 8/scope.html">
+      <file leaf-file-name="day8Returns.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 8/js/day8Returns.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="670" max-vertical-offset="1290">
+              <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day8Scope.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 8/js/day8Scope.js">
+      <file leaf-file-name="validatingLoops.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Loops_worksheet/js/validatingLoops.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="122" max-vertical-offset="867">
-              <caret line="41" column="3" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.24193548" vertical-offset="0" max-vertical-offset="620">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day8Arguments.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 8/js/day8Arguments.js">
+      <file leaf-file-name="day7ValidatingPrompts.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Day 7/js/day7ValidatingPrompts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.83548385" vertical-offset="774" max-vertical-offset="1394">
-              <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="arguments.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 8/arguments.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="240">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="functions.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 8/functions.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1485">
+              <caret line="73" column="2" selection-start-line="73" selection-start-column="2" selection-end-line="73" selection-end-column="2" />
               <folding />
             </state>
           </provider>
@@ -82,10 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day 5/js/day5LogicalOperators.js" />
-        <option value="$PROJECT_DIR$/Day 5/js/ternary.html" />
-        <option value="$PROJECT_DIR$/Day 5/ternary.html" />
-        <option value="$PROJECT_DIR$/Day 5/js/day5Ternary.js" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/conditionals_Worksheet.html" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/js/conditionals.js" />
         <option value="$PROJECT_DIR$/Conditionals_worksheet/js/letter_Calculator.html" />
@@ -133,6 +121,10 @@
         <option value="$PROJECT_DIR$/Day 8/arguments.html" />
         <option value="$PROJECT_DIR$/Day 8/js/day8Arguments.js" />
         <option value="$PROJECT_DIR$/Loops/js/doWhile.js" />
+        <option value="$PROJECT_DIR$/Day 8/returns.html" />
+        <option value="$PROJECT_DIR$/Day 8/js/day8Returns.js" />
+        <option value="$PROJECT_DIR$/Loops_worksheet/validatingLoops.html" />
+        <option value="$PROJECT_DIR$/Loops_worksheet/js/validatingLoops.js" />
       </list>
     </option>
   </component>
@@ -140,8 +132,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="172" />
-    <option name="y" value="92" />
+    <option name="x" value="144" />
+    <option name="y" value="59" />
     <option name="width" value="1220" />
     <option name="height" value="717" />
   </component>
@@ -187,7 +179,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Loops" />
+              <option name="myItemId" value="Loops_worksheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ramirez_Yanely_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Ramirez_Yanely_WPF" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Loops_worksheet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -211,7 +221,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 8" />
+              <option name="myItemId" value="Day 7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -225,7 +235,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 8" />
+              <option name="myItemId" value="Day 7" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -322,12 +332,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="172" y="92" width="1220" height="717" extended-state="0" />
+    <frame x="144" y="59" width="1220" height="717" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28606558" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -338,7 +349,6 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -366,34 +376,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 5/logical.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="60" max-vertical-offset="240">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 5/ternary.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="240">
-          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditionalsDay5Worksheet/conditionals_Worksheet.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 5/steakTemp.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10518934" vertical-offset="0" max-vertical-offset="713">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conditionalsDay5Worksheet/letter_Calculator.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12622721" vertical-offset="0" max-vertical-offset="713">
@@ -590,24 +572,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Loops/js/whileLoops.js">
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/js/whileLoops.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36635005" vertical-offset="0" max-vertical-offset="737">
           <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Loops/whileLoops.html">
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/whileLoops.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.12622721" vertical-offset="0" max-vertical-offset="713">
           <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day 7/js/day7ValidatingPrompts.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51153326" vertical-offset="718" max-vertical-offset="1485">
-          <caret line="73" column="2" selection-start-line="73" selection-start-column="2" selection-end-line="73" selection-end-column="2" />
         </state>
       </provider>
     </entry>
@@ -619,7 +594,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Loops/js/forLoop.js">
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/js/forLoop.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
           <caret line="20" column="35" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
@@ -627,7 +602,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Loops/forLoop.html">
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/forLoop.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.25167784" vertical-offset="0" max-vertical-offset="596">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
@@ -651,7 +626,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Loops/doWhile.html">
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/doWhile.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
           <caret line="5" column="32" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
@@ -699,7 +674,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Loops/js/doWhile.js">
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/js/doWhile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3951613" vertical-offset="70" max-vertical-offset="690">
           <caret line="21" column="53" selection-start-line="21" selection-start-column="53" selection-end-line="21" selection-end-column="53" />
@@ -733,8 +708,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 8/js/day8Arguments.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.83548385" vertical-offset="774" max-vertical-offset="1394">
-          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="774" max-vertical-offset="1394">
+          <caret line="57" column="0" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 8/returns.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="36" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 8/js/day8Returns.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="670" max-vertical-offset="1290">
+          <caret line="42" column="27" selection-start-line="42" selection-start-column="27" selection-end-line="42" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/validatingLoops.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 7/js/day7ValidatingPrompts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="1485">
+          <caret line="73" column="2" selection-start-line="73" selection-start-column="2" selection-end-line="73" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Loops_worksheet/js/validatingLoops.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.24193548" vertical-offset="0" max-vertical-offset="620">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="42" selection-end-line="10" selection-end-column="42" />
           <folding />
         </state>
       </provider>

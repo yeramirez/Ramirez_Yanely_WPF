@@ -47,7 +47,7 @@ WPF 1411
 
  /*while(isNaN(min)){
 
-    //Loops as long as it is not a number
+    //Loops_worksheet as long as it is not a number
     //Re-prompt the user
     min=prompt("Please only type in numbers.\nWhat is the minimum value?");
 
