@@ -12,7 +12,13 @@ WPF 1411
 
  var radius = prompt("Please assign a radius to your circle!");
 
+ //Let's validate to see if it fits
+
  //Now lets calculate
+
+ var circumference = Number(radius) * 2 * Math.PI
+
+ //Let's check the result
 
 
 
