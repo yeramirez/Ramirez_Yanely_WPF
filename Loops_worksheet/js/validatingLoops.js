@@ -19,6 +19,10 @@ WPF 1411
 
  //We will then prompt the user for the average time a song in the playlist
 
- var songTime = prompt("On average, how long are the songs you are listening to?");
+ var songTime = prompt("On average, how long are the songs you are listening to (minutes)?");
 
- //Now we will ask
+ //Now we will do the math
+
+ var totalTime = (songs * songTime) / 60;
+
+ 
