@@ -32,7 +32,6 @@ WPF 1411
   userPrompt = prompt("Please only type in numbers and don't leave this space blank!\nEnter a radius in numerical value.");
 
   }
- 
 
 function circumference(userPrompt){
  var circumference = Number(userPrompt) * 2 * Math.PI;
