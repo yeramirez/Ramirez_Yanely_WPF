@@ -23,14 +23,21 @@ WPF 1411
 
  while(radius ==="" || isNaN(radius)){
 
-  width = prompt("Please only type in numbers and don't leave blank!\nEnter a radius.");
+  radius = prompt("Please only type in numbers and don't leave blank!\nEnter a radius.");
 
  }
 
  //Prompt the user on what their height is for the can
 
  var height = prompt("What is the height of your can (inches)?");
- 
+
+ //Make sure to validate the number given
+
+ while(height ==="" || isNaN(height)){
+
+  height = prompt("Please only type in numbers and don't leave blank!\nEnter a height.");
+
+ }
 
  //Formula to calculate volume is: pi * r * r * h
 
