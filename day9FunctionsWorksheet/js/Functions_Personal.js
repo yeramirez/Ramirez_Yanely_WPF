@@ -15,6 +15,11 @@ WPF 1411
  //Let's find the volume of a soda can
  //This is a personal problem for me because I like to drink a lot
 
+ //Prompt the user on what their radius and height is for the can
+
+ var radius = prompt("What is the radius of your can?");
+ 
+
  //Formula to calculate volume is: pi * r * r * h
 
  function cylinderArea (radius, height){
