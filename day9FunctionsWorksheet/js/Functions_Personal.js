@@ -26,7 +26,7 @@ WPF 1411
 
  //Formula to calculate volume is: pi * r * r * h
 
- function cylinderArea (radius, height){
+ function cylinderVolume (radius, height){
 
   var area = Math.PI * radius * height;
   return area;
@@ -34,4 +34,7 @@ WPF 1411
 
 
  }
+
+//Function Call
+var returnedVolume = cylinderVolume(radius, height);
 
