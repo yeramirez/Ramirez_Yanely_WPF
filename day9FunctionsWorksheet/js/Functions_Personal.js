@@ -18,6 +18,10 @@ WPF 1411
  //Prompt the user on what their radius and height is for the can
 
  var radius = prompt("What is the radius of your can?");
+
+ //Prompt the user on what their height is for the can
+
+ var height = prompt("What is the height of your can?");
  
 
  //Formula to calculate volume is: pi * r * r * h
