@@ -16,5 +16,17 @@ WPF 1411
  var radius = 1.5;
  var height = 10.5;
 
- 
+ //Let's set up the function
+
+ function volume (radius, height){
+
+  var volume = Math.PI * radius * radius * height;
+  return volume
+
+ }
+
+ //Function Call
+ var pringlesVolume = volume(radius, height);
+ console.log("The volume of the Pringles can is " + Math.round(pringlesVolume) + " cubic inches.");
+
 
