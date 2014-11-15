@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b67f8a6-9115-4b03-bb6e-001075ac9ea6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 9/js/day9Multiple.js" afterPath="$PROJECT_DIR$/Day 9/js/day9Multiple.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/Day 9/multipeFunctions.html" afterPath="$PROJECT_DIR$/Day 9/multipleFunctions.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Ramirez_Yanely_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,21 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day9Multiple.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 9/js/day9Multiple.js">
+      <file leaf-file-name="Functions_Personal.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.21005155" vertical-offset="287" max-vertical-offset="1170">
-              <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.19329897" vertical-offset="0" max-vertical-offset="776">
+              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="multipeFunctions.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 9/multipeFunctions.html">
+      <file leaf-file-name="Functions_Personal.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/Functions_Personal.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -54,8 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Day 7/whileLoops.html" />
-        <option value="$PROJECT_DIR$/Day 7/js/day7WhileLoop.js" />
         <option value="$PROJECT_DIR$/Day 7/forLoops.html" />
         <option value="$PROJECT_DIR$/Day 7/js/day7ForLoops.js" />
         <option value="$PROJECT_DIR$/conditionalsDay6Worksheet/personal.html" />
@@ -105,6 +104,8 @@
         <option value="$PROJECT_DIR$/Day 9/js/day9Anonymous.js" />
         <option value="$PROJECT_DIR$/Day 9/multipeFunctions.html" />
         <option value="$PROJECT_DIR$/Day 9/js/day9Multiple.js" />
+        <option value="$PROJECT_DIR$/day9FunctionsWorksheet/Functions_Personal.html" />
+        <option value="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Personal.js" />
       </list>
     </option>
   </component>
@@ -168,7 +169,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 9" />
+              <option name="myItemId" value="day9FunctionsWorksheet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -182,7 +183,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 9" />
+              <option name="myItemId" value="day9FunctionsWorksheet" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -325,20 +326,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/conditionalsDay6Worksheet/personal.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09363296" vertical-offset="0" max-vertical-offset="801">
-          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/conditionalsDay6Worksheet/js/personal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6545454" vertical-offset="0" max-vertical-offset="825">
-          <caret line="36" column="2" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 4/js/day4Arrays.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.8727273" vertical-offset="180" max-vertical-offset="1005">
@@ -678,7 +665,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Day 9/multipeFunctions.html">
+    <entry file="file://$PROJECT_DIR$/Day 9/multipleFunctions.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
           <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
@@ -688,8 +675,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 9/js/day9Multiple.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21005155" vertical-offset="287" max-vertical-offset="1170">
+        <state vertical-scroll-proportion="0.0" vertical-offset="137" max-vertical-offset="1170">
           <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/Functions_Personal.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19329897" vertical-offset="0" max-vertical-offset="776">
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
           <folding />
         </state>
       </provider>
