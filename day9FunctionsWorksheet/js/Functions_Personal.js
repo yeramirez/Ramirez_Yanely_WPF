@@ -19,6 +19,14 @@ WPF 1411
 
  var radius = prompt("What is the radius of your can (inches?");
 
+ //Make sure to validate the number given
+
+ while(radius ==="" || isNaN(radius)){
+
+  width = prompt("Please only type in numbers and don't leave blank!\nEnter a radius.");
+
+ }
+
  //Prompt the user on what their height is for the can
 
  var height = prompt("What is the height of your can (inches)?");
@@ -28,7 +36,7 @@ WPF 1411
 
  function cylinderVolume (radius, height){
 
-  var area = Math.PI * radius * height;
+  var area = Math.PI * radius * radius * height;
   return area;
 
 
