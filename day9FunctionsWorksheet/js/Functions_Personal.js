@@ -15,4 +15,14 @@ WPF 1411
  //Let's find the volume of a soda can
  //This is a personal problem for me because I like to drink a lot
 
- 
+ //Formula to calculate volume is: pi * r * r * h
+
+ function cylinderArea (radius, height){
+
+  var area = Math.PI * radius * height;
+  return area;
+
+
+
+ }
+
