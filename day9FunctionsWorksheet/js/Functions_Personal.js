@@ -41,15 +41,32 @@ WPF 1411
 
  //Formula to calculate volume is: pi * r * r * h
 
- function cylinderVolume (radius, height){
+ function volume (radius, height){
 
-  var area = Math.PI * radius * radius * height;
-  return area;
+  var volume = Math.PI * radius * radius * height;
+  return volume;
 
 
 
  }
 
 //Function Call
-var returnedVolume = cylinderVolume(radius, height);
-console.log("The volume of your can is "+returnedVolume+" cubic inches.");
+var cylinderVolume = volume(radius, height);
+console.log("The volume of your can is "+cylinderVolume+" cubic inches.");
+
+
+
+ //To make it an Anonymous function, just add var! :D
+
+ var cylVolume = function (radius, height){
+
+  var volume = Math.PI * radius * radius * height;
+
+  return volume;
+
+ };
+
+ var returnedCylinderVolume = cylVolume(radius, height);
+ console.log("The returned volume of your can is " + returnedCylinderVolume + " cubic inches.");
+
+
