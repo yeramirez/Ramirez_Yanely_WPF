@@ -36,11 +36,16 @@ WPF 1411
 
  var hand = prompt("What is the radius of your fist? (horizontal-wise & in inches)");
 
+ //Console the users prompt
  console.log(hand);
 
+ //Make another variable to test the hand to can ratio
  var handInPringles;
 
+ //Check to see if the hand will fit in the can
  handInPringles = (hand>=radius) ? "No! Abort mission! Your hand does not fit!" : "Yes, your hand will fit!" ;
 
+
+ //By now you've realized that the volume had nothing to do with anything hahahahaha! 
  console.log(handInPringles);
 
