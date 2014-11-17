@@ -27,17 +27,20 @@ WPF 1411
 
  //Function Call
  var pringlesVolume = volume(radius, height);
+ console.log("The radius of the can is "+radius+" inches.");
+ console.log("The height of the can is "+height+" inches.");
  console.log("The volume of the Pringles can is " + Math.round(pringlesVolume) + " cubic inches.");
+
 
  //Now lets see if your hand will fit in the can!
 
- var hand = prompt("What is the radius of your fist? (horizontal-wise)");
+ var hand = prompt("What is the radius of your fist? (horizontal-wise & in inches)");
 
  console.log(hand);
 
  var handInPringles;
 
- handInPringles = (hand>=radius) ? "Your hand will fit in the Pringles can!" : "No! Abort mission! Your hand does not fit!" ;
+ handInPringles = (hand>=radius) ? "No! Abort mission! Your hand does not fit!" : "Yes, your hand will fit!" ;
 
  console.log(handInPringles);
 
