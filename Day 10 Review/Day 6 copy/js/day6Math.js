@@ -141,6 +141,13 @@ WPF 1411
 
  var radius = prompt("Enter a radius to calculate the area.");
 
+ //Validating
+ while(radius==="" || isNaN(radius)){
+
+  radius = prompt("Please only type in numbers and don't leave blank!\nEnter a radius.");
+
+ }
+
  var circleArea = 2*Math.PI * radius;
 
  console.log("The area of your circle is "+circleArea+".");

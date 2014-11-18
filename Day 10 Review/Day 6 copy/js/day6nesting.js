@@ -20,8 +20,21 @@ WPF 1411
  //Get temp
  var temp = prompt("What is the temperature outside?");
 
+ while(temp ==="" || isNaN(temp)){
+
+  temp = prompt("Please only type in numbers and don't leave blank!\nEnter a temp.");
+
+ }
+
  //Get the water temp
- var waterTemp = 60;
+ var waterTemp = prompt("Enter a temperature for the water.");
+
+ //Validating
+ while(waterTemp ==="" || isNaN(waterTemp)){
+
+  waterTemp = prompt("Please only type in numbers and don't leave blank!\nEnter a water temp.");
+
+ }
 
  //Are you taking a child?
  var child = true;
