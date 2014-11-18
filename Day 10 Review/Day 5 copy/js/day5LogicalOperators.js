@@ -39,7 +39,7 @@ WPF 1411
  //Or I win the lottery
  var wonLottery = true;
 
- if((Number(iPadPrice)<=budget && payCheck>1000) || wonLottery){
+ if((Number(iPadPrice)<=Number(budget) && Number(payCheck)>1000) || wonLottery){
   console.log("iPad is within budget and your check is over $1000.");
 
  } else{
