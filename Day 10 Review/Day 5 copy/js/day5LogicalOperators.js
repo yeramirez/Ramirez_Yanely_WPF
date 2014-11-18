@@ -12,13 +12,13 @@ WPF 1411
  //If the price is less than or equal to our budget or our paycheck is over $1000
  //Then we can buy the iPad
 
- var budget = 300;
- var iPadPrice = 500;
- var payCheck = 1200;
+ var budget = prompt("What is your budget?");
+ var iPadPrice = prompt("What is the price of the iPad?");
+ var payCheck = prompt("How much is your paycheck?");
 
  //&& and logical operator
  //The iPad must be BOTH of these things
- if(iPadPrice<=budget && payCheck>1000){
+ if(Number(iPadPrice)<=Number(budget) && Number(payCheck)>1000){
   console.log("iPad is within budget and your check is over $1000.");
 
  } else{
@@ -27,7 +27,7 @@ WPF 1411
 
  // || - or logical operator
  //We can buy if one of the conditions is met
- if(iPadPrice<=budget || payCheck>1000){
+ if(Number(iPadPrice)<=Number(budget) || Number(payCheck)>1000){
   console.log("You can buy the iPad!");
  } else {
 
@@ -39,7 +39,7 @@ WPF 1411
  //Or I win the lottery
  var wonLottery = true;
 
- if((iPadPrice<=budget && payCheck>1000) || wonLottery){
+ if((Number(iPadPrice)<=budget && payCheck>1000) || wonLottery){
   console.log("iPad is within budget and your check is over $1000.");
 
  } else{
