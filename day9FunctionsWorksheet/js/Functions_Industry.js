@@ -24,6 +24,7 @@ WPF 1411
 
  alert("You will be able to insert numbers and check to see if it meets the requirements.");
 
+ var userWidth = prompt("What is your desired width?");
  
 
 

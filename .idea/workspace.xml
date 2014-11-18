@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="5b67f8a6-9115-4b03-bb6e-001075ac9ea6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Industry.js" afterPath="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Industry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Wacky.js" afterPath="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Wacky.js" />
     </list>
     <ignored path="Ramirez_Yanely_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -50,8 +49,8 @@
       <file leaf-file-name="Functions_Industry.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5025773" vertical-offset="0" max-vertical-offset="776">
-              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.5219072" vertical-offset="0" max-vertical-offset="776">
+              <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -334,7 +333,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="100" y="23" width="1285" height="873" extended-state="1" />
+    <frame x="100" y="23" width="1285" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -739,8 +738,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Industry.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5025773" vertical-offset="0" max-vertical-offset="776">
-          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state vertical-scroll-proportion="0.5219072" vertical-offset="0" max-vertical-offset="776">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding />
         </state>
       </provider>
