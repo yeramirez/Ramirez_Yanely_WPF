@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b67f8a6-9115-4b03-bb6e-001075ac9ea6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Industry.js" afterPath="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Industry.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10 Review/Day 4 copy/js/day4Prompts.js" afterPath="$PROJECT_DIR$/Day 10 Review/Day 4 copy/js/day4Prompts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5Conditionals.js" afterPath="$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5Conditionals.js" />
     </list>
     <ignored path="Ramirez_Yanely_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,14 +26,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day4Prompts.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Day 10 Review/Day 4 copy/js/day4Prompts.js">
+      <file leaf-file-name="day5Conditionals.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5Conditionals.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3234536" vertical-offset="154" max-vertical-offset="930">
-              <caret line="27" column="87" selection-start-line="27" selection-start-column="87" selection-end-line="27" selection-end-column="87" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.6958763" vertical-offset="480" max-vertical-offset="1710">
+              <caret line="68" column="60" selection-start-line="68" selection-start-column="60" selection-end-line="68" selection-end-column="60" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -47,7 +44,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/conditionalsDay6Worksheet/js/industry.js" />
         <option value="$PROJECT_DIR$/conditionalsDay6Worksheet/wacky.html" />
         <option value="$PROJECT_DIR$/conditionalsDay6Worksheet/wacky2.html" />
         <option value="$PROJECT_DIR$/conditionalsDay6Worksheet/js/wacky2.js" />
@@ -96,8 +92,9 @@
         <option value="$PROJECT_DIR$/day9FunctionsWorksheet/Functions_Wacky.html" />
         <option value="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Wacky.js" />
         <option value="$PROJECT_DIR$/Day 10 Review/Day 4 copy/js/day4Casting.js" />
-        <option value="$PROJECT_DIR$/Day 10 Review/Day 4 copy/js/day4Prompts.js" />
         <option value="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Industry.js" />
+        <option value="$PROJECT_DIR$/Day 10 Review/Day 4 copy/js/day4Prompts.js" />
+        <option value="$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5Conditionals.js" />
       </list>
     </option>
   </component>
@@ -180,7 +177,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 4 copy" />
+              <option name="myItemId" value="Day 5 copy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -198,39 +195,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Day 4 copy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ramirez_Yanely_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ramirez_Yanely_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day9FunctionsWorksheet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ramirez_Yanely_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Ramirez_Yanely_WPF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="day9FunctionsWorksheet" />
+              <option name="myItemId" value="Day 5 copy" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -372,13 +337,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day 7/validatingPrompts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10518934" vertical-offset="0" max-vertical-offset="713">
-          <caret line="5" column="44" selection-start-line="5" selection-start-column="44" selection-end-line="5" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Loops_worksheet/js/whileLoops.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.36635005" vertical-offset="0" max-vertical-offset="737">
@@ -745,11 +703,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 10 Review/Day 4 copy/js/day4Prompts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3234536" vertical-offset="154" max-vertical-offset="930">
-          <caret line="27" column="87" selection-start-line="27" selection-start-column="87" selection-end-line="27" selection-end-column="87" />
+        <state vertical-scroll-proportion="0.8840206" vertical-offset="154" max-vertical-offset="930">
+          <caret line="56" column="0" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5Conditionals.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6958763" vertical-offset="480" max-vertical-offset="1710">
+          <caret line="68" column="60" selection-start-line="68" selection-start-column="60" selection-end-line="68" selection-end-column="60" />
+          <folding />
         </state>
       </provider>
     </entry>

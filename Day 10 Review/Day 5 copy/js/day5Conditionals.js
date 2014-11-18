@@ -46,10 +46,10 @@ WPF 1411
 
  //Create a variable to hold the kids height
 
- var kidHeight = 44;
+ var kidHeight = prompt("What is the height of the kid?");
 
  //add a sneaker lift
- var sneakerLift = 2;
+ var sneakerLift = prompt("How much of a sneaker lift does the kid have?");
 
  //Create a variable for a kid min height
  var minHeight = 48;
@@ -58,15 +58,15 @@ WPF 1411
  var wParentHeight = 45;
 
  //If statement
- if(kidHeight > minHeight){
+ if(Number(kidHeight) > minHeight){
 
   //True code goes here
   console.log("Congrats, you're tall enough to ride!");
 
- } else if(kidHeight>= wParentHeight){
+ } else if(Number(kidHeight)>= wParentHeight){
   console.log("You can right, but with your parent, loser.")
 
- } else if (kidHeight+sneakerLift >48){
+ } else if (Number(kidHeight)+Number(sneakerLift) >minHeight){
   console.log("You can ride the ride, you cheater!");
 
  } else {
