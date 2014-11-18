@@ -24,9 +24,9 @@ WPF 1411
  //String() - treats anything inside as a text string
 
  //Phone number
- var areaCode = 407;
- var firstPart = 979;
- var secondPart = 1667;
+ var areaCode = prompt("What is the area code of your phone number?");
+ var firstPart = prompt("What are the first three digits of your phone number?");
+ var secondPart = prompt("What are the last four digits of your phone number?");
 
  //Concatenate the phone number to ne variable
 
