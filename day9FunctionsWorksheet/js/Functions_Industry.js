@@ -22,7 +22,7 @@ WPF 1411
 
  console.log("The area of your roof is "+roofArea+" inches.");
 
- alert("You will be able to insert numbers and check to see if it meets the requirements.");
+ alert("You will be able to insert numbers and check to see if it meets the requirements based on a square house.");
 
  var userWidth = prompt("What is your desired width?");
 
@@ -41,6 +41,20 @@ WPF 1411
 
  //Function Call
  var userRoofArea = area(userLength, userWidth);
+
+ //Console.log your results
+ console.log("The area of your roof is "+userRoofArea+" inches.");
+
+ if(userRoofArea>roofArea){
+
+  //Console.log the if statement
+  console.log("Your roof is okay to be on your house!")
+
+ } else if(userRoofArea<=roofArea){
+
+  //Console.log your results
+  console.log("Your roof is NOT okay to be on your house!");
+ }
 
 
 
