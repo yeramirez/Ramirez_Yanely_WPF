@@ -21,6 +21,13 @@ WPF 1411
 //Declare and define the variable for steak temp
  var steakTemp = prompt("What temperature is your steak?");
 
+ //Validate the steak temp entered
+ while(steakTemp ==="" || isNaN(steakTemp)){
+
+  steakTemp = prompt("Please only type in numbers and don't leave blank!\nEnter a steak temp.");
+
+ }
+
  if(steakTemp<115){
   console.log("Uncooked Meat - Mooo!")
 

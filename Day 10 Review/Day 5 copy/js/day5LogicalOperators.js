@@ -26,7 +26,7 @@ WPF 1411
  //Validate the iPad Price
  while(iPadPrice ==="" || isNaN(iPadPrice)){
 
-  iPadPrice = prompt("Please only type in numbers and don't leave blank!\nEnter a height.");
+  iPadPrice = prompt("Please only type in numbers and don't leave blank!\nEnter a number.");
 
  }
  var payCheck = prompt("How much is your paycheck?");
@@ -34,7 +34,7 @@ WPF 1411
  //Validate the paycheck number
  while(payCheck ==="" || isNaN(payCheck)){
 
-  payCheck = prompt("Please only type in numbers and don't leave blank!\nEnter a height.");
+  payCheck = prompt("Please only type in numbers and don't leave blank!\nEnter a number.");
 
  }
 

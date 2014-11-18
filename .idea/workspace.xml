@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="5b67f8a6-9115-4b03-bb6e-001075ac9ea6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5LogicalOperators.js" afterPath="$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5LogicalOperators.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5SteakTemp.js" afterPath="$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5SteakTemp.js" />
     </list>
     <ignored path="Ramirez_Yanely_WPF.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +27,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="day5LogicalOperators.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="day5SteakTemp.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5SteakTemp.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3234536" vertical-offset="94" max-vertical-offset="900">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="day5LogicalOperators.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5LogicalOperators.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.69072163" vertical-offset="4" max-vertical-offset="1110">
-              <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="169" max-vertical-offset="1110">
+              <caret line="28" column="88" selection-start-line="28" selection-start-column="88" selection-end-line="28" selection-end-column="88" />
               <folding />
             </state>
           </provider>
@@ -44,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/conditionalsDay6Worksheet/wacky2.html" />
         <option value="$PROJECT_DIR$/conditionalsDay6Worksheet/js/wacky2.js" />
         <option value="$PROJECT_DIR$/conditionalsDay6Worksheet/js/wacky.js" />
         <option value="$PROJECT_DIR$/Day 7/Beer.html" />
@@ -95,6 +105,7 @@
         <option value="$PROJECT_DIR$/Day 10 Review/Day 4 copy/js/day4Prompts.js" />
         <option value="$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5Conditionals.js" />
         <option value="$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5LogicalOperators.js" />
+        <option value="$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5SteakTemp.js" />
       </list>
     </option>
   </component>
@@ -337,13 +348,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Loops_worksheet/whileLoops.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12622721" vertical-offset="0" max-vertical-offset="713">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 7/js/day7ForLoops.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.61290324" vertical-offset="55" max-vertical-offset="675">
@@ -714,8 +718,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5LogicalOperators.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.69072163" vertical-offset="4" max-vertical-offset="1110">
-          <caret line="36" column="10" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="169" max-vertical-offset="1110">
+          <caret line="28" column="88" selection-start-line="28" selection-start-column="88" selection-end-line="28" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Day 10 Review/Day 5 copy/js/day5SteakTemp.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3234536" vertical-offset="94" max-vertical-offset="900">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
           <folding />
         </state>
       </provider>
