@@ -46,6 +46,6 @@ WPF 1411
  handInPringles = (hand>=radius) ? "No! Abort mission! Your hand does not fit!" : "Yes, your hand will fit!" ;
 
 
- //By now you've realized that the volume had nothing to do with anything hahahahaha! 
+ //By now you've realized that the volume had nothing to do with anything hahahahaha!
  console.log(handInPringles);
 

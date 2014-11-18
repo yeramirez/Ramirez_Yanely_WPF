@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b67f8a6-9115-4b03-bb6e-001075ac9ea6" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Industry.js" afterPath="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Industry.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Wacky.js" afterPath="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Wacky.js" />
     </list>
     <ignored path="Ramirez_Yanely_WPF.iws" />
@@ -26,21 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Functions_Wacky.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Functions_Wacky.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.92783505" vertical-offset="0" max-vertical-offset="855">
-              <caret line="48" column="86" selection-start-line="48" selection-start-column="86" selection-end-line="48" selection-end-column="86" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="day5SteakTemp.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 5/js/day5SteakTemp.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="19" max-vertical-offset="795">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="19" max-vertical-offset="855">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -49,28 +40,28 @@
       <file leaf-file-name="Functions_Personal.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Personal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="394" max-vertical-offset="1170">
+            <state vertical-scroll-proportion="0.0" vertical-offset="259" max-vertical-offset="1170">
               <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="day5Ternary.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Day 5/js/day5Ternary.js">
+      <file leaf-file-name="Functions_Industry.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Industry.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
-              <caret line="36" column="19" selection-start-line="31" selection-start-column="1" selection-end-line="36" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.5025773" vertical-offset="0" max-vertical-offset="776">
+              <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Functions_Wacky.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/Functions_Wacky.html">
+      <file leaf-file-name="Functions_Industry.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/Functions_Industry.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-              <caret line="5" column="40" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -131,10 +122,10 @@
         <option value="$PROJECT_DIR$/Day 9/js/day9Multiple.js" />
         <option value="$PROJECT_DIR$/day9FunctionsWorksheet/Functions_Personal.html" />
         <option value="$PROJECT_DIR$/day9FunctionsWorksheet/Functions_Industry.html" />
-        <option value="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Industry.js" />
         <option value="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Personal.js" />
         <option value="$PROJECT_DIR$/day9FunctionsWorksheet/Functions_Wacky.html" />
         <option value="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Wacky.js" />
+        <option value="$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Industry.js" />
       </list>
     </option>
   </component>
@@ -343,7 +334,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="100" y="23" width="1285" height="873" extended-state="0" />
+    <frame x="100" y="23" width="1285" height="873" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -698,20 +689,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/Functions_Industry.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
-          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Industry.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23195876" vertical-offset="0" max-vertical-offset="776">
-          <caret line="12" column="3" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 5/js/day5Ternary.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
@@ -728,14 +705,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Personal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="394" max-vertical-offset="1170">
-          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Day 5/js/day5SteakTemp.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="795">
@@ -746,8 +715,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92783505" vertical-offset="0" max-vertical-offset="855">
-          <caret line="48" column="86" selection-start-line="48" selection-start-column="86" selection-end-line="48" selection-end-column="86" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Personal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="259" max-vertical-offset="1170">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/Functions_Industry.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="240">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day9FunctionsWorksheet/js/Functions_Industry.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5025773" vertical-offset="0" max-vertical-offset="776">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
           <folding />
         </state>
       </provider>
