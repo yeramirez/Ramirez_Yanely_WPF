@@ -56,7 +56,14 @@ WPF 1411
  //How to get specific number of decimals
  //toFixed - not part of Math
 
- var num4 = 6.7893;
+ var num4 = prompt("Please enter a number!\nWe are going to round it!");
+
+ //Validate
+ while(num4 ==="" || isNaN(num4)){
+
+  num4 = prompt("Please only type in numbers and don't leave blank!\nEnter a number.");
+
+ }
 
  console.log(num4);
  console.log(num4.toFixed(2));
@@ -99,8 +106,24 @@ WPF 1411
  //Prompt the user for a max and min number
  //Then find the random number between them
 
- var min = prompt("Let's find a random number! What's the max number?");
- var max = prompt("Please type in a minimum number?");
+ var min = prompt("Let's find a random number!\nEnter a number");
+
+ //Validate
+ while(min ==="" || isNaN(min)){
+
+  min = prompt("Please only type in numbers and don't leave blank!\nEnter a number.");
+
+ }
+
+ var max = prompt("Please type in a maximum number.");
+
+ //Validate
+ while(max ==="" || isNaN(max)){
+
+  max = prompt("Please only type in numbers and don't leave blank!\nEnter a number bigger than the maximum.");
+
+ }
+
 
  //Find the random integer
  var randomNum = (Math.random() * (max - min) + parseInt(min));
@@ -113,7 +136,7 @@ WPF 1411
  //Number that never changes
  //Always uppercase
  //Math.PI - 3.14159.....
- //Circum of a circle
+ //Circumference of a circle
  //2 * pi * pi
 
  var radius = 7;
