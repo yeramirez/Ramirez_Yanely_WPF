@@ -9,7 +9,14 @@ WPF 1411
 //alert("Testing 1,2,3!");
 
  //If your GPA is greater than 2.0 then you graduate
- var gpa = 2.5;
+ var gpa = prompt("What is your GPA?");
+
+ //Validate the GPA entered
+ while(gpa ==="" || isNaN(gpa)){
+
+  gpa = prompt("Please only type in numbers and don't leave blank!\nEnter a GPA.");
+
+ }
 
  if(gpa>2.0){
   console.log("Congrats, you graduate!");
