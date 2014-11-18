@@ -11,15 +11,29 @@ WPF 1411
  //Normal Round
  //.5+ goes up, else goes down.
 
- var num1 = 9.544;
+ var num1 = prompt("Enter a number!\nWe are going to round it.");
 
- console.log(num1);
+ //Validate the number
+ while(num1 ==="" || isNaN(num1)){
+
+  num1 = prompt("Please only type in numbers and don't leave blank!\nEnter a number.");
+
+ }
+
+ console.log (num1);
  console.log(Math.round(num1));
 
  //Floor round
  //Always rounds down
 
- var num2 = 6.999;
+ var num2 = prompt("Please enter a number!\nWe are going to round it down!");
+
+ //Validate
+ while(num2 ==="" || isNaN(num2)){
+
+  num2 = prompt("Please only type in numbers and don't leave blank!\nEnter a number.");
+
+ }
 
  console.log(num2);
  console.log(Math.floor(num2));
@@ -27,7 +41,14 @@ WPF 1411
  //Ceiling Round
  //Always rounds up!
 
- var num3 = 4.3;
+ var num3 = prompt("Please enter a number!\nWe are going to round it up!");
+
+ //Validate
+ while(num3 ==="" || isNaN(steakTemp)){
+
+  steakTemp = prompt("Please only type in numbers and don't leave blank!\nEnter a steak temp.");
+
+ }
 
  console.log(num3);
  console.log(Math.ceil(num3));
