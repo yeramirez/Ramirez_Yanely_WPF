@@ -44,9 +44,9 @@ WPF 1411
  var num3 = prompt("Please enter a number!\nWe are going to round it up!");
 
  //Validate
- while(num3 ==="" || isNaN(steakTemp)){
+ while(num3 ==="" || isNaN(num3)){
 
-  steakTemp = prompt("Please only type in numbers and don't leave blank!\nEnter a steak temp.");
+  num3 = prompt("Please only type in numbers and don't leave blank!\nEnter a number.");
 
  }
 
