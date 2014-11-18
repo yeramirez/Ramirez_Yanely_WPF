@@ -31,12 +31,19 @@ WPF 1411
  //Insert a function
  function area (length, width){
 
+  //Insert what you want to do with your numbers
   var area = length * width;
 
   //Now return your results
   return area;
 
  }
+
+ //Function Call
+ var userRoofArea = area(userLength, userWidth);
+
+
+
 
 
 
