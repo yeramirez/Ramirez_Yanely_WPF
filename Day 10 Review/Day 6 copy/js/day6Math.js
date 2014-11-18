@@ -139,11 +139,11 @@ WPF 1411
  //Circumference of a circle
  //2 * pi * pi
 
- var radius = 7;
+ var radius = prompt("Enter a radius to calculate the area.");
 
  var circleArea = 2*Math.PI * radius;
 
- console.log(circleArea);
+ console.log("The area of your circle is "+circleArea+".");
 
 
 
