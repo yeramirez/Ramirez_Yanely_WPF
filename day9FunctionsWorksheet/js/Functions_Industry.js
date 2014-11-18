@@ -26,7 +26,21 @@ WPF 1411
 
  var userWidth = prompt("What is your desired width?");
 
+ //Validate the users response
+ while(userWidth ==="" || isNaN(userWidth)){
+
+  userWidth = prompt("Please only type in numbers and don't leave blank!\nEnter a height.");
+
+ }
+
  var userLength = prompt("What is your desired length?");
+
+ //Validate the users response
+ while(userLength ==="" || isNaN(userLength)){
+
+  userLength = prompt("Please only type in numbers and don't leave blank!\nEnter a height.");
+
+ }
 
  //Insert a function
  function area (length, width){
