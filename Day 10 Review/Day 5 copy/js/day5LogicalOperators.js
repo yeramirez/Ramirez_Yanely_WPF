@@ -13,8 +13,30 @@ WPF 1411
  //Then we can buy the iPad
 
  var budget = prompt("What is your budget?");
+
+ //Validate the budget number
+ while(height ==="" || isNaN(budget)){
+
+  budget = prompt("Please only type in numbers and don't leave blank!\nEnter a budget.");
+
+ }
+
  var iPadPrice = prompt("What is the price of the iPad?");
+
+ //Validate the iPad Price
+ while(iPadPrice ==="" || isNaN(iPadPrice)){
+
+  iPadPrice = prompt("Please only type in numbers and don't leave blank!\nEnter a height.");
+
+ }
  var payCheck = prompt("How much is your paycheck?");
+
+ //Validate the paycheck number
+ while(payCheck ==="" || isNaN(payCheck)){
+
+  payCheck = prompt("Please only type in numbers and don't leave blank!\nEnter a height.");
+
+ }
 
  //&& and logical operator
  //The iPad must be BOTH of these things
