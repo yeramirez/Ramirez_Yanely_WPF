@@ -29,7 +29,7 @@ WPF 1411
  //Validate the users response
  while(userWidth ==="" || isNaN(userWidth)){
 
-  userWidth = prompt("Please only type in numbers and don't leave blank!\nEnter a height.");
+  userWidth = prompt("Please only type in numbers and don't leave blank!\nEnter a width.");
 
  }
 
@@ -38,7 +38,7 @@ WPF 1411
  //Validate the users response
  while(userLength ==="" || isNaN(userLength)){
 
-  userLength = prompt("Please only type in numbers and don't leave blank!\nEnter a height.");
+  userLength = prompt("Please only type in numbers and don't leave blank!\nEnter a length.");
 
  }
 

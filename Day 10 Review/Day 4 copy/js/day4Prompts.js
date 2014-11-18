@@ -22,7 +22,21 @@ console.log("You are "+ age + " years old.");
 
 var length = prompt("We are going to calculate the area of a rectangle.\nPlease enter the length of your rectangle:");
 
+//Validating the length entered
+while(length==="" || isNaN(length)){
+
+    length = prompt("Please only type in numbers and don't leave blank!\nEnter a length.");
+
+}
+
 var width = prompt("Please enter the width of your rectangle:");
+
+//Validating the width entered
+while(width ==="" || isNaN(width)){
+
+    width = prompt("Please only type in numbers and don't leave blank!\nEnter a width.");
+
+}
 
 //Calculate the actual area
 var area = length * width;
