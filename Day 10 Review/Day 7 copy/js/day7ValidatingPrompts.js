@@ -22,7 +22,7 @@ WPF 1411
  /*if(min===""){
   //The user just pressed enter
   //Re-prompt the user
-  min = prompt("What's the minimum value?\nPlease do not leave blank.");
+   min = prompt("What's the minimum value?\nPlease do not leave blank.");
 
  }
 

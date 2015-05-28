@@ -23,7 +23,7 @@ WPF 1411
 
  //Create a for loop, but if counter is 3, I want to stop the loop
 
- for( var j = 0; j<5; j++){
+ for(var j = 0; j<5; j++){
 
   console.log("j = "+j);
   if(j===3){
